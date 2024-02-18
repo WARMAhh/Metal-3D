@@ -1,1 +1,1 @@
-This provides some modification version of the Metal 3D project, which works on the Google Colab
+This repository provides some modified versions of the Metal 3D CNN prediction project, which mainly works by the Google Colab website.
